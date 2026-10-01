@@ -113,7 +113,8 @@ package.json
 contém as informações e configurações do projeto node.js
 
 # como executar
-execute git clone na url do repositorio
-entre na pasta do projeto executando -> cd projeto-chamado
+execute git clone https://github.com/kauahlins/projeto-chamados-lesIFpe
+entre na pasta do projeto executando -> cd projeto-chamadosIFPE
 depois execute o node no terminal na pasta -> node src/sistema.js
+se você tiver o node.js
 e depois disso ele vai estar rodando 
